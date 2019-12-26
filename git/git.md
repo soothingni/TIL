@@ -184,3 +184,10 @@ $ git clone 깃허브url
 원격저장소를 복제한다.
 
 주의!  `init` 명령어와 같이 기억하자! 
+
+### 5. 원격저장소 삭제
+
+```bash
+$ git remote rm origin
+```
+
