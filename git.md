@@ -21,7 +21,7 @@ $ git config --global user.email soothingni@yonsei.ac.kr
 
 
 
-## 로컬 저장소(repository) 활용하기
+## 로컬저장소(repository) 활용하기
 
 ### 1. 저장소 초기화
 
@@ -167,3 +167,20 @@ $ git push origin master
 
 `status`, `log`, `remote -v`
 
+### 3. `pull`
+
+```bash
+$ git pull origin master
+```
+
+원격저장소의 변경사항을 받아온다.
+
+### 4.  `clone`
+
+```bash
+$ git clone 깃허브url
+```
+
+원격저장소를 복제한다.
+
+주의!  `init` 명령어와 같이 기억하자! 
