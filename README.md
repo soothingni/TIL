@@ -5,7 +5,7 @@
 ## 1. git
 
 - [git기초](./git.md)
-
 - [마크다운](./markdown.md)
 
-  
+## 2. Python
+
